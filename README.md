@@ -4,7 +4,7 @@ A modern developer portfolio built with Next.js, TypeScript, and Tailwind CSS to
 
 ## 🚀 Live Website
 
-Coming Soon
+[View Portfolio](https://krishna-portfolio-livid.vercel.app/)
 
 ## ✨ Features
 
