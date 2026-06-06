@@ -14,6 +14,8 @@
   });
 
   export const metadata: Metadata = {
+    metadataBase:new URL("https://krishnasingh.online"),
+    
     title: {
       default: "Krishna Singh | Full Stack Engineer",
       template: "%s | Krishna Singh",
@@ -41,7 +43,7 @@
       title: "Krishna Singh | Full-Stack Engineer",
       description:
         "Building scalable web applications, PWAs, backend systems, and modern digital products.",
-      url: "https://your-domain.com",
+      url: "https://krishnasingh.online",
       siteName: "Krishna Singh Portfolio",
       images: [
         {
